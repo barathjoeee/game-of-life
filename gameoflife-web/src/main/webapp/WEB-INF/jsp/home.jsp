@@ -23,12 +23,12 @@
         }
 
         .footer {
-            color: white;
+            color: green;
             font-size: medium;
             text-align: right;
-            background-color: blue;
+            background-color: red;
             margin-top: 100px;
-            border-top: thin solid black;
+            border-top: thin solid blue;
             padding: 2px;
             font-family: sans-serif;
             font-weight: bold;
@@ -61,7 +61,7 @@
     </style>
 </head>
 <body>
-<h2>Welcome to Conway's Game Of Life!</h2>
+<h2>Welcome to Conway's Game Of Life!- Barath</h2>
 
 <div class="intro">
     <p>This is a really cool web version of Conway's famous Game Of
